@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'Source Sans Pro';
+    src: url('./fonts/SourceSansPro-regular-webfont.svg') format('svg');
+}
+@font-face {
+    font-family: 'Source Sans Pro';
+    src: url('./fonts/SourceSansPro-bold-webfont.svg') format('svg');
+    font-weight: bold;
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  src: url('./fonts/SourceSansPro-it-webfont.svg') format('svg');
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  src: url('./fonts/SourceSansPro-boldit-webfont.svg') format('svg');
+  font-weight: bold;
+  font-style: italic;
+}
+
+body, td, input, textarea, select, .LW-avf {
+  font-family: Source Sans Pro !important;
+  font-size: 100% !important;
+}
+
+.gt {
+  font-size: 1rem !important;
+  line-height: 1.4 !important;
+}
+
+.aoT {
+  font-size: 1.2rem !important;
+}
+
+.nM {
+  font-size: 1rem !important;
+}
+
+.yO {
+  background: #fafafa !important;
+}
+
+.TC, .xY {
+  padding-top: 7px !important;
+  padding-bottom: 7px !important;
+}

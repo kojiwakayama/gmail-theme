@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Gmail Theme",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "My Gmail theme.",
+    "description": "The description of the application"
+  }
+}
