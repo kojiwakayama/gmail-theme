@@ -1,20 +1,20 @@
 @font-face {
     font-family: 'Source Sans Pro';
-    src: url('./fonts/SourceSansPro-regular-webfont.svg') format('svg');
+    src: url('chrome-extension://lbhpneminiinlmihflpdidopgpbkblgo/styles/fonts/SourceSansPro-regular-webfont.svg') format('svg');
 }
 @font-face {
     font-family: 'Source Sans Pro';
-    src: url('./fonts/SourceSansPro-bold-webfont.svg') format('svg');
+    src: url('chrome-extension://lbhpneminiinlmihflpdidopgpbkblgo/styles/fonts/SourceSansPro-bold-webfont.svg') format('svg');
     font-weight: bold;
 }
 @font-face {
   font-family: 'Source Sans Pro';
-  src: url('./fonts/SourceSansPro-it-webfont.svg') format('svg');
+  src: url('chrome-extension://lbhpneminiinlmihflpdidopgpbkblgo/styles/fonts/SourceSansPro-it-webfont.svg') format('svg');
   font-style: italic;
 }
 @font-face {
   font-family: 'Source Sans Pro';
-  src: url('./fonts/SourceSansPro-boldit-webfont.svg') format('svg');
+  src: url('chrome-extension://lbhpneminiinlmihflpdidopgpbkblgo/styles/fonts/SourceSansPro-boldit-webfont.svg') format('svg');
   font-weight: bold;
   font-style: italic;
 }

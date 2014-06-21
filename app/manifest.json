@@ -12,5 +12,6 @@
   {
     "matches": ["https://mail.google.com/*"],
     "css": ["styles/gmail-theme.css"]
-  }]
+  }],
+  "web_accessible_resources": ["styles/fonts/*"]
 }
